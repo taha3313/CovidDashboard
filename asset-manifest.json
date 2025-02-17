@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/CovidDashboard/static/css/main.04505143.chunk.css",
+    "main.js": "/CovidDashboard/static/js/main.449014b5.chunk.js",
+    "main.js.map": "/CovidDashboard/static/js/main.449014b5.chunk.js.map",
+    "runtime~main.js": "/CovidDashboard/static/js/runtime~main.778c895c.js",
+    "runtime~main.js.map": "/CovidDashboard/static/js/runtime~main.778c895c.js.map",
+    "static/js/2.17bd7f60.chunk.js": "/CovidDashboard/static/js/2.17bd7f60.chunk.js",
+    "static/js/2.17bd7f60.chunk.js.map": "/CovidDashboard/static/js/2.17bd7f60.chunk.js.map",
+    "static/js/3.cf3acbb1.chunk.js": "/CovidDashboard/static/js/3.cf3acbb1.chunk.js",
+    "static/js/3.cf3acbb1.chunk.js.map": "/CovidDashboard/static/js/3.cf3acbb1.chunk.js.map",
+    "index.html": "/CovidDashboard/index.html",
+    "precache-manifest.02b200c1e27f5ad3b8a9c527220b1519.js": "/CovidDashboard/precache-manifest.02b200c1e27f5ad3b8a9c527220b1519.js",
+    "service-worker.js": "/CovidDashboard/service-worker.js",
+    "static/css/main.04505143.chunk.css.map": "/CovidDashboard/static/css/main.04505143.chunk.css.map"
+  }
+}
