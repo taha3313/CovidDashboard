@@ -1,6 +1,7 @@
 {
   "name": "cov-dashboard",
   "version": "0.1.0",
+  "homepage": "https://taha3313.github.io/CovidDashboard",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
